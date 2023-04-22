@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+  }
+section{
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg);
+    flex-direction: column;
+    text-align: center;
+    font-family: 'Rubik Pixels', cursive;
+
+}
+form{
+    
+}
