@@ -1,0 +1,14 @@
+
+.create-blog {
+    margin-bottom: 50px;
+    background-color: blueviolet;
+    color: #fff;
+  }
+  .create-blog textarea {
+    width: 100%;
+    height: 400%;
+  }
+  .create-blog button{
+    text-align: center;
+    align-content: center;
+  }
