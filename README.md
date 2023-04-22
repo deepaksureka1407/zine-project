@@ -1,2 +1,2 @@
 # zine-project
-i have to make a website for zine project
+i have made a dynamic website for writing blogs.
